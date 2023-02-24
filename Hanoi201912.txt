@@ -1,0 +1,35 @@
+1	Tôi sinh ra ở một vùng nông thôn Bắc Bộ.
+2	Tuổi thơ tôi gắn liền với những con đường đầy đất, đầy nắng.
+3	Tôi chạy chân trần trên những con đường đầy rơm vào những mùa hè.
+4	Chạy trên những cánh đồng bát ngát /// đầy rau cỏ hoa lúa.
+5	/// Mỗi khi đi xa lòng tôi luôn trịu xuống khi nghĩ về quê hương, nghĩ về những con người thân thương của mình, mọi thứ luôn ở đó, bố mẹ, người thân, kể cả cảnh vật, con đường cây cối mọi thứ vẫn ở đó chờ đợi tôi, mở rộng lòng với tôi.
+6	/// Tôi chưa bao giờ có thể kìm lòng xuống được, nghĩ về quê hương khi nghĩ về người thân của mình.
+7	Dù tôi có một ở, dù tôi có ở một địa vị cao xa hay tôi có học thức hơn nhưng /// những người thân của tôi /// họ luôn luôn ở phía sau, họ luôn luôn là bàn đạp là động lực cho tôi để tôi bước xa hơn, để tôi thành công hơn, trường thành hơn.
+8	/// Tuổi thơ tôi thì có nhiều thứ hay ho, /// có lẽ đối, có lẽ là đối với những đứa ở nhà quê như tôi có nhiều chuyện để nói lắm.
+9	/// Tôi còn nhớ như in những ngày theo mẹ ra đồng, nắng chói chang.
+10	Trồng rau /// nhặt cỏ, cuốc đất tưới nước /// cho dù bây giờ tôi ăn mặc sang trọng như là, sang trọng là một người có học thức, đi vào những nhà hàng, khách sạn cao cấp nhưng, xuất thân của tôi vẫn là từ cái mùi, cái mùi đất, mùi lá cỏ, làm sao mà quên được nhả.
+11	/// Cả một ấu thơ ngồi trên thân trâu thổi sáo, tựa lưng vào cốc đa đầu làng, chạy quanh giếng nước rồi nô đùa.
+12	/// Nhưng bây giờ tuổi thơ của nhiều đứa trẻ khác thì hình như chỉ gắn với smartphone, với facebook, /// tôi hơi chạnh lòng một chút.
+13	/// Nhưng có lẽ là thời thế thay đổi, không còn mấy trò chơi dân gian, không còn gắn với kỉ niệm ấu thơ bên cánh đồng chăn trâu.
+14	Tôi, Tôi hiểu được.
+15	/// Nhưng dù sao tôi vẫn rất tự hào về tuổi thơ của mình.
+16	Có lần tôi từng hỏi mẹ:
+17	"Mẹ ơi, tại sao những người dân làng mình, làm việc chăm chỉ hay lam hay làm chịu thương chịu khó như thế mà vẫn nghèo mẹ nhỉ, mẹ nhỉ."
+18	Mẹ tôi chỉ biết xoa đầu, mỉm cười, chậc, rồi thở phào ra.
+19	"Ờ, chịu thương chịu khó là vậy nhưng mình là nông dân mà con, quanh năm làm lụng cũng chỉ đủ ăn /// dù nghèo nhưng mình vẫn có nhiều cái vui.
+20	Sống với người dân bạn bè làng xóm có nhiều tiếng cười, có nhiều hạnh phúc khác mà."
+21	/// Tôi ôm mẹ rồi, thì thầm bên tai:
+22	"Mẹ ơi sau này con sẽ cố gắng thật nhiều, thật nhiều, để có thể vươn xa hơn, để có thể đưa mẹ, đưa gia đình mình đi tới những vùng đất khác để có thể mở rộng tầm mắt hơn, để có thể đỡ khổ hơn bây giờ mẹ ạ.
+23	Con hứa đấy."
+24	/// Mẹ tôi cũng ôm siết, ôm siết tôi vào lòng rồi cười phào:
+25	"Bố cô. Tôi lại chờ được cái ngày đấy lắm."
+26	/// Bây giờ tôi vẫn đang trên hành trình thực hiện ước mơ, thực hiện lời hứa đối với mẹ, chưa bao giờ tôi quên.
+27	Mặc dù cuộc sống có những khó khăn nhất định, tôi ra ngoài tôi không bằng người ta, tôi có nhiều khiếm khuyết, tôi biết, lúc nào cũng phải đặt chữ nỗ lực ở trong người.
+28	Tôi không bao giờ quên cái lời hứa đối với mẹ.
+29	/// Những lúc mệt nhọc hay có lúc tôi nản chí muốn rút lui /// khi nhìn vào thất bại của mình, khi thấy mình không thành công được như người ta, thì tôi quay lại, tôi quay trở về gia đình hỏi nhỏ với mẹ.
+30	"Mẹ ơi con xin lỗi vì dù đã nỗ lực bao nhiêu nhưng con vẫn không bằng người ta, con vẫn không thành công như họ."
+31	Tôi thật là ngạc nhiên trước câu nói của một bà mẹ quê.
+32	/// "Mẹ cho con đi học /// con không bằng người ta /// mẹ không trách.
+33	Ước nguyện đầu tiên mà mẹ cho con đi học là để con làm người, con biết sống như một người có ích cho xã hội, con biết cư xử biết giao lưu biết lễ phép /// biết cách sống sao cho /// trở thành một người công dân tốt /// chỉ vậy thôi.
+34	Còn thành công thì sẽ đến với những người /// luôn biết nỗ lực, luôn biết trận trọng những gì mình đang có.
+35	/// Đừng bao giờ nản chí vì luôn có mẹ có gia đình, mọi người luôn ở bên cạnh để ủng hộ con dõi theo con."
